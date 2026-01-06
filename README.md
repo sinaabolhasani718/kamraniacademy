@@ -31,7 +31,7 @@ This project demonstrates a real-world web development scenario using **Next.js*
 
 ## 📸 Screenshot
 
-![Kamrani Academy Screenshot](./kamrani.png)
+![Kamrani Academy Screenshot](./image/kamrani.png)
 
 > Replace with an actual screenshot of the site.
 
